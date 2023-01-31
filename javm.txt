@@ -1,4 +1,0 @@
-clss hlw{
-public static void main(String[]srgs);
-
-system.out.println("hellow )
