@@ -1,4 +1,4 @@
-clss machli{
+clss hlw{
 public static void main(String[]srgs);
 
-system.out.println("hellow Machwara)
+system.out.println("hellow )
